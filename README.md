@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection
 
+Nota: 17.3
+
 ## Introduction
 Credit card fraud is a wide-ranging term for theft and fraud committed using or involving a payment card, such as a credit card or debit card, as a fraudulent source of funds in a transaction. The purpose may be to obtain goods or services, or to make payment to another account which is controlled by a criminal. The Payment Card Industry Data Security Standard (PCI DSS) is the data security standard created to help businesses process card payments securely and reduce card fraud. The standard applies to all organizations which hold, process, or pass cardholder information from any card branded with the logo of one of the card brands.
 
